@@ -7,7 +7,7 @@ const SlothsForm = (): React.ReactElement => {
         <input type="text" id="name" className="form" />
       </div>
       <div>
-        <label htmlFor="picture">Picture URL: </label>
+        <label htmlFor="url">Picture URL: </label>
         <input type="url" id="url" className="form" />
       </div>
       <div>
